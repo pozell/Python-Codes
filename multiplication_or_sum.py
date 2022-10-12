@@ -1,3 +1,5 @@
+
+#Verilen iki tamsayı, yalnızca çarpım 1000'e eşit veya daha küçükse carpimlarini döndürür, aksi takdirde toplamlarını döndürür.
 def multiplication_or_sum(num1, num2):
     # calculate product of two number
     product = num1 * num2
